@@ -1,7 +1,7 @@
 # Hi, I'm Lasya Manchikalapudi 👋
 
 🎓 Final Year Computer Science Student  
-📊 Aspiring Data Analyst | SQL • Python • Excel  
+📊 Data Analyst | SQL • Python • Excel  
 📍 India  
 🔗 [LinkedIn](https://www.linkedin.com/in/lasyamanchikalapudi/)
 
